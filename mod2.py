@@ -1,2 +1,2 @@
-def staffs():
-    print("Total no of staffs=250")
+def sum(a,b):
+    return a+b
